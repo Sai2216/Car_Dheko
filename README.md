@@ -48,6 +48,7 @@ Any additional resources supporting the project.
 Getting Started
 Prerequisites
 
+
 Ensure the following are installed before running the notebook or application:
 
 Python 3.7+
@@ -55,11 +56,14 @@ Required libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, streamlit
 
 Using the Streamlit Application
 
+
 Input Fields: Enter car details such as make, model, year, fuel type, transmission type, mileage, and more.
 Price Prediction: Click the Predict button to generate the estimated price.
 User-Friendly Interface: Designed for ease of use, even for non-technical users.
 
 Model Training and Evaluation
+
+
 Data Cleaning:
 Handled missing data, encoded categorical variables, and scaled numerical features.
 Model Selection:
@@ -70,10 +74,14 @@ Models assessed using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R
 The best-performing model was selected for deployment.
 
 Results
+
+
 Best Model: Selected based on the highest R² and lowest MSE/MAE values.
 Accuracy: Demonstrated strong predictive accuracy, making the model reliable for real-world car price estimation.
 
 Repository Structure
+
+
 car_dekho_cleaning_and_modeling.ipynb: Notebook for data processing and model development.
 car_dekho_app.py: Script for the Streamlit application.
 project_report.pdf: Comprehensive project report.
@@ -81,6 +89,8 @@ user_guide.pdf: Step-by-step user guide for the Streamlit application.
 Car_Price_Prediction.zip: Includes the cleaned dataset, serialized models, and other resources.
 
 Acknowledgements
+
+
 This project was developed using:
 
 Data: Provided by CarDekho.
@@ -89,9 +99,13 @@ Scikit-learn for machine learning.
 Streamlit for application deployment.
 
 License
+
+
 This project is licensed under the MIT License.
 
 References
+
+
 CarDekho Dataset
 Scikit-learn Documentation
 Streamlit Documentation
