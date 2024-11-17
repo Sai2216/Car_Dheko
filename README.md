@@ -9,6 +9,7 @@ Project Structure
 1.VS Code
 
 File: car_dekho.ipynb
+
 Description:
 Contains the complete workflow, including:
 Exploratory Data Analysis (EDA) to identify key features influencing car prices.
@@ -18,12 +19,14 @@ Model Development, where multiple algorithms (Linear Regression, Decision Trees,
 2.Streamlit Application
 
 File: car_dekho_app.py
+
 Description:
 An interactive, web-based tool that lets users input car specifications and obtain price predictions. Designed with an intuitive interface, it’s accessible to both technical and non-technical users.
 
 3.Project Report
 
 File: Car_Dekho-Used_Car_Price_Prediction_pdf.pdf
+
 Description:
 A detailed document covering the project's lifecycle, including:
 Problem definition.
@@ -34,12 +37,14 @@ Results and insights derived from the analysis.
 4.User Guide
 
 File: user_guide.pdf
+
 Description:
 A comprehensive guide that explains how to use the Streamlit application, covering navigation, input fields, and interpreting the predictions.
 
 5.Resources
 
 File: Structured data.zip
+
 Contents:
 Cleaned dataset used for training.
 Serialized model files (.pkl files) saved with joblib.
